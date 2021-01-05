@@ -27,7 +27,7 @@ class FactoryProducer {
 //创建抽象类获取工厂
 abstract class AbstractFactory {
     public abstract Color getColor(String color);
-    public abstract Shape getShape(String shape) ;
+    public abstract Shape getShape(String shape);
 }
 //实现抽象类
 class ColorFactory extends AbstractFactory{
