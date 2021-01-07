@@ -7,6 +7,7 @@ import java.util.List;
  * 组合模式
  * 类似树结构
  * 将多个对象组合在一起进行操作，常用于表示树形结构中，例如二叉树
+ * 链表
  */
 public class CompositePattern {
     public static void main(String[] args) {
